@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="seedless_primary">#FF4CAF50</color>
+    <color name="seedless_primary_dark">#FF388E3C</color>
+    <color name="seedless_accent">#FF81C784</color>
+    <color name="seedless_background">#FF1A1A2E</color>
+    <color name="seedless_surface">#FF16213E</color>
+    <color name="seedless_on_surface">#FFE0E0E0</color>
+    <color name="seedless_on_background">#FFE0E0E0</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+</resources>

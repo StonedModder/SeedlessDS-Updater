@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\jarch\\.gradle\\daemon\\8.5\\com.seedlessds.updater.app-mergeDebugResources-30:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\jarch\\.gradle\\daemon\\8.5\\com.seedlessds.updater.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.seedlessds.updater.app-mergeDebugResources-30:/layout/activity_main.xml",
+        "source": "com.seedlessds.updater.app-main-33:/layout/activity_main.xml"
+    }
+]

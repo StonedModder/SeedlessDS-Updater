@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\jarch\\.gradle\\daemon\\8.5\\com.seedlessds.updater.app-merged_res-31:\\xml_file_paths.xml.flat",
+        "source": "C:\\Users\\jarch\\.gradle\\daemon\\8.5\\com.seedlessds.updater.app-main-33:\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\jarch\\.gradle\\daemon\\8.5\\com.seedlessds.updater.app-merged_res-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\jarch\\.gradle\\daemon\\8.5\\com.seedlessds.updater.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\jarch\\.gradle\\daemon\\8.5\\com.seedlessds.updater.app-merged_res-31:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\jarch\\.gradle\\daemon\\8.5\\com.seedlessds.updater.app-main-33:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.seedlessds.updater.app-merged_res-31:/layout_activity_main.xml.flat",
+        "source": "com.seedlessds.updater.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\jarch\\.gradle\\daemon\\8.5\\com.seedlessds.updater.app-merged_res-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\jarch\\.gradle\\daemon\\8.5\\com.seedlessds.updater.app-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    }
+]

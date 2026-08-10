@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="seedless_accent">#FF81C784</color>
+    <color name="seedless_background">#FF1A1A2E</color>
+    <color name="seedless_on_background">#FFE0E0E0</color>
+    <color name="seedless_on_surface">#FFE0E0E0</color>
+    <color name="seedless_primary">#FF4CAF50</color>
+    <color name="seedless_primary_dark">#FF388E3C</color>
+    <color name="seedless_surface">#FF16213E</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Seedless Updater</string>
+    <string name="app_subtitle">Install and update SeedlessDS on your device</string>
+    <string name="app_title">SeedlessDS Updater</string>
+    <string name="btn_check">Check for Updates</string>
+    <string name="btn_install">Install SeedlessDS</string>
+    <string name="btn_reinstall">Reinstall SeedlessDS</string>
+    <string name="btn_update">Update SeedlessDS</string>
+    <string name="download_description">Downloading SeedlessDS APK</string>
+    <string name="download_title">SeedlessDS</string>
+    <string name="footer">Seedless Updater is not affiliated with SeedlessDS.</string>
+    <string name="label_status">STATUS</string>
+    <string name="status_checking">Checking for latest release…</string>
+    <string name="status_download_failed">Download failed. Check your connection.</string>
+    <string name="status_downloading">Downloading SeedlessDS…</string>
+    <string name="status_install_error">Installation failed. Try again.</string>
+    <string name="status_install_ready">Download complete. Installing…</string>
+    <string name="status_installing">Launching installer…</string>
+    <string name="status_need_permission">Permission needed to install apps.</string>
+    <string name="status_not_installed">SeedlessDS is not installed on this device.</string>
+    <string name="status_permission_denied">Install permission was denied.</string>
+    <string name="status_unknown_error">An unexpected error occurred.</string>
+    <string name="status_up_to_date">SeedlessDS is up to date!</string>
+    <string name="status_update_available">SeedlessDS %1$s is installed.\nA newer version is available.</string>
+    <string name="toast_download_failed">Download failed. Please try again.</string>
+    <string name="toast_need_permission">Please allow installing apps from this source.</string>
+    <string name="toast_no_apk">No APK found in the latest release.</string>
+    <string name="toast_waiting_release">Checking for latest release…</string>
+    <string name="version_error">Failed to fetch release info</string>
+    <string name="version_latest">Latest release: %1$s</string>
+    <string name="version_not_found">No APK found in latest release</string>
+    <style name="Theme.SeedlessUpdater" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/seedless_primary</item>
+        <item name="colorPrimaryDark">@color/seedless_primary_dark</item>
+        <item name="colorAccent">@color/seedless_accent</item>
+        <item name="android:colorBackground">@color/seedless_background</item>
+        <item name="colorSurface">@color/seedless_surface</item>
+        <item name="colorOnSurface">@color/seedless_on_surface</item>
+        <item name="colorOnBackground">@color/seedless_on_background</item>
+    </style>
+</resources>

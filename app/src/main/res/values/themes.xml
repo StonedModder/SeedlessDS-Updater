@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.SeedlessUpdater" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/seedless_primary</item>
+        <item name="colorPrimaryDark">@color/seedless_primary_dark</item>
+        <item name="colorAccent">@color/seedless_accent</item>
+        <item name="android:colorBackground">@color/seedless_background</item>
+        <item name="colorSurface">@color/seedless_surface</item>
+        <item name="colorOnSurface">@color/seedless_on_surface</item>
+        <item name="colorOnBackground">@color/seedless_on_background</item>
+    </style>
+</resources>

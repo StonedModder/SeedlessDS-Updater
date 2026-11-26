@@ -1,3 +1,11 @@
+<!-- unleashedapi -->
+<p align="center">
+  <a href="https://unleashedapi.com/?utm_source=github&utm_medium=readme&utm_campaign=stonedmodder&utm_content=SeedlessDS-Updater">
+    <img src="https://raw.githubusercontent.com/StonedModder/unleashedapi/main/assets/banner-slim.png" alt="UnleashedAPI — uncensored OpenAI-compatible AI API. Free to start." width="100%">
+  </a><br>
+  Drop-in OpenAI-compatible endpoint. <a href="https://unleashedapi.com/?utm_source=github&utm_medium=readme&utm_campaign=stonedmodder&utm_content=SeedlessDS-Updater"><strong>UnleashedAPI</strong></a> — uncensored models, free to start.
+</p>
+
 <p align="center">
   <img src="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" width="80" height="80" alt="Seedless Updater" />
 </p>
